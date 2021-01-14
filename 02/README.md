@@ -2,7 +2,7 @@
 
 - [Функции](https://htmlacademy.ru/courses/215) (Пункты с 10 и до конца) &#128170;
 
-- [Стрелочные функции]() &#128421;
+- [Стрелочные функции](https://youtu.be/C0Mx2yPysLI) &#128421;
 
 - [Массивы](https://htmlacademy.ru/courses/213) &#128170;
 
