@@ -10,6 +10,8 @@
 
 - [Объекты](https://htmlacademy.ru/courses/217) &#128170;
 
+- [Строгий режим](use-strict.md) &#128215;
+
 - [Деструктуризация](https://youtu.be/tGV7QSCPlDI) &#128421;
 
 - [Канвас]() &#128421;
