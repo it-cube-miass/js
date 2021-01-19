@@ -26,6 +26,7 @@
   * [Деструктуризация &#128421;](https://youtu.be/tGV7QSCPlDI) 
   * [Канвас &#128421;](02/canvas.md) 
   * [Текст на канвасе &#128421;]() 
+  * [Набросок решения &#128421;]() <span style="color: red; margin-left: 10px;">soon</span>
 * [3. DOM](03/README.md)
   * [Задание &#129327;](03/task.md)
   * [DOM &#128215;](03/dom.md) 
