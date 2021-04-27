@@ -5,7 +5,7 @@
 * [📗 &#160; JSON](./json.md)
 * [📗 &#160; Промисы](./promise.md)
 * [📗 &#160; Цепочки промисов](./promise-chains.md)
-* [📗 &#160; Методы промисов]() soon
+* [📗 &#160; Методы промисов](./promise-methods.md)
 * [📗 &#160; Fetch API]() soon
 * [🎥 &#160; setTimeout]() soon
 * [🎥 &#160; Исключения]() soon
