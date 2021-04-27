@@ -10,5 +10,5 @@
 * [🎥 &#160; setTimeout]() soon
 * [🎥 &#160; Исключения]() soon
 * [🎥 &#160; Обзор вкладки Network]() soon
-* [📗 &#160; Использование объектов FormData](https://up.htmlacademy.ru/javascript/22/module/7/item/14)
+* [📗 &#160; Использование объектов FormData](https://developer.mozilla.org/ru/docs/Web/API/FormData/Using_FormData_Objects)
 * [📗 &#160; Async/Await]() soon
